@@ -1,0 +1,18 @@
+body {
+font-size : 25px;
+font-family: Times New Roman;
+background: url("./html1.jpg") fixed;
+}
+table {
+border-collapse: collapse;
+}
+th, td {
+border : 1px black solid;
+padding : 8px;
+}
+footer {
+background-color: rgb(20, 100, 255);
+width :100%;
+margin-left:-20px;
+margin-right:-30;
+}
